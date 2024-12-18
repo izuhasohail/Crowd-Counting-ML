@@ -61,7 +61,7 @@ I developed an automated counting system using Convolutional Neural Networks (CN
 
 ## Dataset
 
-The project utilizes the Mall Dataset which includes:
+The project utilizes the [Mall Dataset](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html) which includes:
 
 - 2000 surveillance images (480x640 pixels, RGB)
 - Ground truth pedestrian counts
