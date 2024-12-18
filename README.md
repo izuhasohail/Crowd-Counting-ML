@@ -1,12 +1,12 @@
-# Crowd Counting: Video Surveillance Upgrade for Monitoring Physical Distancing (BDG2-D)
+# Deep Learning-Based Crowd Analysis System for Social Distance Monitoring
 
 By: Zuha Sohail
 
-## Introduction
+## Project Overview
 
 Crowd Counting is an advanced computer vision technique that automatically determines the number of objects in an image. This project focuses on developing a robust crowd counting system specifically for monitoring physical distancing in indoor spaces.
 
-## Applications & Use Cases
+## Real-World Impact & Applications
 
 The applications of crowd counting span across multiple industries:
 
@@ -34,7 +34,7 @@ The applications of crowd counting span across multiple industries:
 - Optimize advertising placement based on foot traffic
 - Peak hour identification for resource allocation
 
-## Technical Challenge
+## The Challenge: Beyond Manual Counting
 
 Manual counting becomes impractical and error-prone when dealing with:
 
@@ -50,7 +50,7 @@ Manual counting becomes impractical and error-prone when dealing with:
 
 <div align="center">Source: digest.bps.org.uk by Christian Jarrett</div>
 
-## Solution Approach
+## Innovative Solution Framework
 
 I developed an automated counting system using Convolutional Neural Networks (CNN) that:
 
@@ -59,7 +59,7 @@ I developed an automated counting system using Convolutional Neural Networks (CN
 - Outputs accurate pedestrian counts
 - Generates density maps for visualization
 
-## Dataset
+## Training Data Foundation
 
 The project utilizes the [Mall Dataset](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html) which includes:
 
@@ -68,9 +68,9 @@ The project utilizes the [Mall Dataset](http://personal.ie.cuhk.edu.hk/~ccloy/do
 - Consistent camera angle and positioning
 - Varying crowd densities
 
-## Model Evolution
+## System Development Journey
 
-### Baseline Model
+### Initial Prototype
 
 The initial implementation featured:
 
@@ -84,7 +84,7 @@ The initial implementation featured:
 
 Performance metrics showed MAE of ~1 for training and ~5 for testing.
 
-### Advanced Implementation
+### Enhanced Architecture
 
 I improved the model through several key innovations:
 
@@ -106,7 +106,7 @@ I improved the model through several key innovations:
    - Feature enhancement layer
    - Transposed convolution for upsampling
 
-## Results
+## Performance Analysis
 
 The improved model achieved:
 
@@ -115,7 +115,7 @@ The improved model achieved:
 - Accurate density map generation
 - Robust crowd distribution visualization
 
-## Conclusion
+## Final Outcomes & Impact
 
 This project demonstrates the effectiveness of deep learning in crowd counting applications. The developed system provides:
 
@@ -124,7 +124,7 @@ This project demonstrates the effectiveness of deep learning in crowd counting a
 - Real-time monitoring capability
 - Practical applications for physical distancing enforcement
 
-## References
+## Academic Sources
 
 Cao, X., Wang, Z., Zhao, Y., & Su, F. (2018). Scale aggregation network for accurate and efficient crowd counting. Computer Vision – ECCV 2018, 757-773. https://doi.org/10.1007/978-3-030-01228-1_45
 
