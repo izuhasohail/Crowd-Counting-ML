@@ -128,22 +128,10 @@ This project demonstrates the effectiveness of deep learning in crowd counting a
 
 Cao, X., Wang, Z., Zhao, Y., & Su, F. (2018). Scale aggregation network for accurate and efficient crowd counting. Computer Vision – ECCV 2018, 757-773. https://doi.org/10.1007/978-3-030-01228-1_45
 
-Chen, K., Gong, S., Xiang, T., & Loy, C. C. (2013). Cumulative attribute space for age and crowd density estimation. 2013 IEEE Conference on Computer Vision and Pattern Recognition. https://doi.org/10.1109/cvpr.2013.319
-
-Chen, K., Loy, C. C., Gong, S., & Xiang, T. (2012). Feature mining for localised crowd counting. Procedings of the British Machine Vision Conference 2012. https://doi.org/10.5244/c.26.21
-
 Crowd counting. (n.d.). Kaggle: Your Machine Learning and Data Science Community. https://www.kaggle.com/fmena14/crowd-counting
 
 Li, Y., Zhang, X., & Chen, D. (2018). CSRNet: Dilated Convolutional neural networks for understanding the highly congested scenes. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition. https://doi.org/10.1109/cvpr.2018.00120
 
-Loy, C. C., Chen, K., Gong, S., & Xiang, T. (2013). Crowd counting and profiling: Methodology and evaluation. Modeling, Simulation and Visual Analysis of Crowds, 347-382. https://doi.org/10.1007/978-1-4614-8483-7_14
-
-Loy, C. C., Gong, S., & Xiang, T. (2013). From semi-supervised to transfer counting of crowds. 2013 IEEE International Conference on Computer Vision. https://doi.org/10.1109/iccv.2013.270
-
 Mall dataset - Crowd counting dataset. (n.d.). https://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html
 
 Tian, Y., Lei, Y., Zhang, J., & Wang, J. Z. (2020). PaDNet: Pan-density crowd counting. IEEE Transactions on Image Processing, 29, 2714-2727. https://doi.org/10.1109/tip.2019.2952083
-
-Yosinski, J., Clune, J., Bengio, Y., & Lipson, H. (2014). How transferable are features in deep neural networks? Advances in Neural Information Processing Systems 27.
-
-Zhang, Y., Zhou, D., Chen, S., Gao, S., & Ma, Y. (2016). Single-image crowd counting via multi-column Convolutional neural network. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). https://doi.org/10.1109/cvpr.2016.70
